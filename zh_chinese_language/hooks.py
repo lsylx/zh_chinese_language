@@ -15,7 +15,9 @@ app_license = "MIT"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/zh_chinese_language/css/zh_chinese_language.css"
 # app_include_js = "/assets/zh_chinese_language/js/zh_chinese_language.js"
-
+app_include_js = [
+    "/assets/js/mfg.min.js"
+]
 # include js, css files in header of web template
 # web_include_css = "/assets/zh_chinese_language/css/zh_chinese_language.css"
 # web_include_js = "/assets/zh_chinese_language/js/zh_chinese_language.js"
