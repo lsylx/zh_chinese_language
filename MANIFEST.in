@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include zh_chinese_language *.css
+recursive-include zh_chinese_language *.csv
+recursive-include zh_chinese_language *.html
+recursive-include zh_chinese_language *.ico
+recursive-include zh_chinese_language *.js
+recursive-include zh_chinese_language *.json
+recursive-include zh_chinese_language *.md
+recursive-include zh_chinese_language *.png
+recursive-include zh_chinese_language *.py
+recursive-include zh_chinese_language *.svg
+recursive-include zh_chinese_language *.txt
+recursive-exclude zh_chinese_language *.pyc
