@@ -1,7 +1,7 @@
 # Chinese Language
 
 #### Description
-ERPNext中文包，支持13版本和14版本
+ERPNext Chinese Language Pack，support 13 Version and 14 Version .
 
 #### Installation
 
