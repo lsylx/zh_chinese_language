@@ -1,9 +1,10 @@
 /*
 //---------------------------------------------------------------------------------------------------------------------
 // Copyright (c) 2022, Phipsoft (Tianjin) Co., Ltd. and Contributors
-// MIT License. See license.txt
+// GPL3.0 License. See license.txt
 //--作用：定义JS代码需要使用到的新词条（官方代码里没有定义过的）
 //--Changed by Phipsoft on 2022/03/30
+//--/home/frappe/frappe-bench/apps/manufacturing_language_pack/manufacturing_language_pack/public/js/translation.js
 //---------------------------------------------------------------------------------------------------------------------
 */
 
@@ -107,6 +108,32 @@ __("Select Date Range"),
 __("Allowed Items"),
 __("Allow Alternative Item"),
 __("apparelo"),
+__("Standard with Numbers"),
+__("Website User"),
+__("System User"),
+__("Document Share Report"),
+__("Toggle Theme"),
+__("Bank Account Name"),
+__("Stock"),
+__("Utilities"),
+__("ERPNext Integrations"),
+__("Home"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
+__("xxxxx"),
 __("xxxxx"),
 __("xxxxx"),
 __("xxxxx"),
