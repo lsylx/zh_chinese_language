@@ -1,9 +1,9 @@
 from . import __version__ as app_version
 
 app_name = "zh_chinese_language"
-app_title = "Chinese language"
+app_title = "ZH Chinese Language"
 app_publisher = "Phipsoft"
-app_description = "Chinese Language"
+app_description = "ZH Chinese Language"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "huzj@phipsoft.com"

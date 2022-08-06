@@ -9,7 +9,7 @@ from zh_chinese_language import __version__ as version
 setup(
 	name="zh_chinese_language",
 	version=version,
-	description="Chinese Language",
+	description="ZH Chinese Language",
 	author="Phipsoft",
 	author_email="huzj@phipsoft.com",
 	packages=find_packages(),
