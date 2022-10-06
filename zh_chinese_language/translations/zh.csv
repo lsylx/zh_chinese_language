@@ -15021,3 +15021,4 @@ Set Naming Series options on your transactions.,为交易单据设置命名系�
 Update Series Counter,更新系列开始值,
 Change the starting / current sequence number of an existing series.,更改现有命名规则的开始/当前编号,
 Warning: Incorrectly updating counters can prevent documents from getting created.,提醒：更新不当将无法新建单据,
+Series Updated for {0},{0}命名系列已更新,
